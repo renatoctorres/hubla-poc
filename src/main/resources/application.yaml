@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    username: ${DATABASE_USER}
+    url: jdbc:mysql://mysql:3306/test?autoReconnect=true
+    driverClassName: com.mysql.cj.jdbc.Driver
+    password: ${DATABASE_PASSWORD}
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  jpa:
+    database: 'MYSQL'
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: 'true'
+    hibernate:
+      ddl-auto: 'update'
+    open-in-view: 'true'
+    defer-datasource-initialization: 'true'

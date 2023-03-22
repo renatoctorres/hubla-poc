@@ -1,0 +1,40 @@
+version: "3.8"
+
+services:
+  mysql:
+    container_name: mysql
+    image: 'mysql:8'
+    restart: always
+    environment:
+      MYSQL_DATABASE: laravel_web
+      MYSQL_USER: user_db
+      MYSQL_ROOT_USER: root
+      MYSQL_PASSWORD: 05f79f0187b84781
+      MYSQL_ROOT_PASSWORD: 05f79f0187b84781
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    ports:
+     - 3306:3306
+    volumes:
+     - dbdata:/var/lib/mysql
+
+  hubla-poc:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - 8080:8080
+      - 3306
+    depends_on:
+      - mysql
+    environment:
+      SERVICE_NAME: hubla-poc
+      SERVICE_TAGS: dev
+    links:
+      - mysql:hubla-poc
+
+      #Volumes
+volumes:
+  dbdata:
+    driver: local
