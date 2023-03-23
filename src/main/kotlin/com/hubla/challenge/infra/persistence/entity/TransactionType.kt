@@ -16,4 +16,5 @@ enum class TransactionType(
         operator fun get(value: Int) = map[value]
     }
 
+
 }

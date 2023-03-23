@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository
 import java.util.*
 
 @Repository
-interface SellerRepository : JpaRepository<Seller, UUID>{
+interface SellerRepository : JpaRepository<Seller, Long>{
     @Query("FROM Seller WHERE name = :name")
     fun findByName(@Param("name") name : String) : Optional<Seller>
 }

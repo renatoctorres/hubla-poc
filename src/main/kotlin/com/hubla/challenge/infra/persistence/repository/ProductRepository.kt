@@ -8,7 +8,8 @@ import org.springframework.stereotype.Repository
 import java.util.*
 
 @Repository
-interface ProductRepository : JpaRepository<Product, UUID> {
+interface ProductRepository : JpaRepository<Product, Long> {
     @Query("FROM Product WHERE description = :description")
-    fun findByDescription(@Param("description") description : String) : Optional<Product>
+    fun findAllByDescription(@Param("description") description : String) : Optional<Product>
+
 }

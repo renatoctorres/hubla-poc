@@ -1,6 +1,5 @@
 package com.hubla.challenge.core.model
-
-data class ProductRDTO(
-    val id : Long?,
+data class ProductDTO(
+    val id : Long,
     val description: String
 )

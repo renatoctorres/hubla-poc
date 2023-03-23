@@ -3,6 +3,7 @@ package com.hubla.challenge
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
+
 @SpringBootApplication
 class ChallengeApplication
 

@@ -1,13 +1,11 @@
 package com.hubla.challenge.core.model
-
-import java.time.LocalDate
-
 data class TransactionDTO(
-    val id: Long?,
+    val id: Long,
     val type: Int,
-    val product: String,
+    val product: ProductDTO,
     val valueTransaction: Int,
-    val seller: String,
-    val createdAt: LocalDate = LocalDate.now()
+    val seller: SellerDTO,
+    val date: String,
+    val idImportation : Long
 )
 

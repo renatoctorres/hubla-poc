@@ -1,15 +1,15 @@
 package com.hubla.challenge.infra.persistence.entity
 
-import java.time.LocalDate
+import java.util.*
 import javax.persistence.*
 
 @Entity
 data class TransactionImported(
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    val id: Long? = 0L,
+    val id: Long,
 
-    val createdAt: LocalDate,
+    val date: Date,
 
     @Enumerated(EnumType.STRING)
     val type: TransactionType?,

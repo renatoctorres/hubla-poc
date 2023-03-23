@@ -6,7 +6,7 @@ import javax.persistence.*
 data class Seller(
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    val id: Long = 0L,
+    val id: Long,
     @Column(unique=true)
     val name: String
 )

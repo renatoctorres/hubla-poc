@@ -1,17 +1,20 @@
 spring:
   datasource:
-    username: ${DATABASE_USER}
-    url: jdbc:mysql://mysql:3306/test?autoReconnect=true
+    username: user_db
+    password: 05f79f0187b84781
+    url: jdbc:mysql://mysql:3306/laravel_web?autoReconnect=true
     driverClassName: com.mysql.cj.jdbc.Driver
-    password: ${DATABASE_PASSWORD}
+    hikari:
+      maximum-pool-size: 10
+
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher
   jpa:
-    database: 'MYSQL'
+    database: MYSQL
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
-    show-sql: 'true'
+    show-sql: true
     hibernate:
-      ddl-auto: 'update'
-    open-in-view: 'true'
-    defer-datasource-initialization: 'true'
+      ddl-auto: update
+    open-in-view: true
+    defer-datasource-initialization: true
