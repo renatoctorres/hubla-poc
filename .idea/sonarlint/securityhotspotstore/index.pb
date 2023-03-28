@@ -58,8 +58,6 @@ x
 Hsrc/main/kotlin/com/hubla/challenge/core/service/SellerAccountService.kt,3\f\3f17e60461ff852712375e8974e51ba4f4640d62
 u
 Esrc/main/kotlin/com/hubla/challenge/core/model/ImportationTemplate.kt,4\9\4998d88380bf5d50f2a5c0673ca1e7100ed7682f
-@
-build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
 v
 Fsrc/test/kotlin/com/hubla/challenge/core/service/ProductServiceTest.kt,b\a\ba07fed38b8a2662a748a8b63e154b96a26b783c
 ‰

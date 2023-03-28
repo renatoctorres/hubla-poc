@@ -5,95 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12e1274-3992-4faf-a08c-d24053f0a18d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/detekt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03058c63968850a57e010268e930298e821c2142" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/1842abf5f3b521b5c35eb6f15d3e317387fcbf7e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f17e60461ff852712375e8974e51ba4f4640d62" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4725a452a75aab0f2184195e4583ed6b270fe09d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/4998d88380bf5d50f2a5c0673ca1e7100ed7682f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e5392774c3097f0de1c60d0ede98df0a55a487c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5eadfc0453fdbd0b62138b85f4c286359cf68f47" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e1b59075065d48281dfae950f998412b9e4d918" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86a845b745aec2ed218deb89d17fc4349e1efba2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b811cadfb7757b1d173f0c2229ccf67c28814f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5a32db34e60617b1a10d53b5d6725de2ec43268" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c640c083ad5e899ea1e96d0e9dcac9f9eaf8b24a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6de4c72b9363b320d6e00eccaa5c0c2dd93d8a5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eecdac5be1986e5b78863fbd8f7ba32b19993e24" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fcefd1820a1864373dab232de307a6ed735c1953" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/3/03058c63968850a57e010268e930298e821c2142" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/8/1842abf5f3b521b5c35eb6f15d3e317387fcbf7e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/f/3f17e60461ff852712375e8974e51ba4f4640d62" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/7/4725a452a75aab0f2184195e4583ed6b270fe09d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/9/4998d88380bf5d50f2a5c0673ca1e7100ed7682f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/e/4e5392774c3097f0de1c60d0ede98df0a55a487c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/e/5eadfc0453fdbd0b62138b85f4c286359cf68f47" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/e/7e1b59075065d48281dfae950f998412b9e4d918" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/6/86a845b745aec2ed218deb89d17fc4349e1efba2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/b/9b811cadfb7757b1d173f0c2229ccf67c28814f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/5/b5a32db34e60617b1a10d53b5d6725de2ec43268" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/6/c640c083ad5e899ea1e96d0e9dcac9f9eaf8b24a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/6/e6de4c72b9363b320d6e00eccaa5c0c2dd93d8a5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/e/eecdac5be1986e5b78863fbd8f7ba32b19993e24" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/c/fcefd1820a1864373dab232de307a6ed735c1953" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detekt-config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/ImportationFileService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/ImportFileResource.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/OperationNature.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/model/extensions/ObjectExtensionTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/model/objectmother/ImportationObjectMother.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/model/objectmother/ProductObjectMother.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/model/objectmother/SellerAccountExtractObjectMother.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/model/objectmother/SellerAccountObjectMother.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/model/objectmother/SellerObjectMother.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/model/objectmother/TransactionImportedObjectMother.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/service/ImportationServiceTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/service/ProductServiceTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/service/SellerAccountServiceTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/service/SellerServiceTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/hubla/challenge/core/service/TransactionServiceTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/ChallengeApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/ChallengeApplication.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/ImportationDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/ImportationDTO.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/ImportationFileDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/SellerAccountExtractDTO.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/ImportationTemplate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/ImportationTemplate.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/ProductDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/ProductDTO.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/SellerAccountDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/SellerAccountDTO.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/TransactionDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/TransactionDTO.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/extensions/ObjectExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/model/extensions/ObjectExtension.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/ImportationService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/ImportationService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/ProductService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/ProductService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/SellerAccountService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/SellerAccountService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/SellerService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/SellerService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/TransactionService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/core/service/TransactionService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/config/SwaggerConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/config/SwaggerConfig.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/ImportationResource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/ImportationResource.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/ProductResource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/ProductResource.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/SellerAccountResource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/SellerAccountResource.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/SellerResource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/SellerResource.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/TransactionResource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/delivery/TransactionResource.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/Importation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/Importation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/Product.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/Seller.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/Seller.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/SellerAccount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/SellerAccount.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/TransactionImported.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/TransactionImported.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/TransactionType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/TransactionType.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/entity/extension/ObjectExtension.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/repository/ImportationRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/repository/ImportationRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/repository/ProductRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/repository/ProductRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/repository/SellerAccountRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/repository/SellerAccountRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/repository/TransactionImportedRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hubla/challenge/infra/persistence/repository/TransactionImportedRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,22 +128,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/projetos/banking-disposal&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.68505746&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.detekt&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/projetos/banking-disposal",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.68505746",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Java\projetos\hubla-poc" />
