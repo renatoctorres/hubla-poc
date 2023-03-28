@@ -1,0 +1,29 @@
+build:
+  maxIssues: 0
+  excludeCorrectable: false
+  weights:
+    LongParameterList: 8
+
+config:
+  validation: true
+  warningsAsErrors: false
+  # when writing own rules with new properties, exclude the property path e.g.: 'my_rule_set,.*>.*>[my_property]'
+  excludes: ''
+
+naming:
+  active: true
+  FunctionMaxLength:
+    active: true
+    maximumFunctionNameLength: 50
+
+complexity:
+  active: true
+  LongParameterList:
+    active: true
+    functionThreshold: 8
+    constructorThreshold: 8
+
+    ignoreDefaultParameters: false
+    ignoreDataClasses: true
+    ignoreAnnotatedParameter:
+      - 'Id'

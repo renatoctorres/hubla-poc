@@ -5,7 +5,6 @@ data class TransactionDTO(
     val product: ProductDTO,
     val valueTransaction: Int,
     val seller: SellerDTO,
-    val date: String,
-    val idImportation : Long
+    var date: String,
+    val idImportation: Long
 )
-

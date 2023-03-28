@@ -16,7 +16,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2
 class SwaggerConfig {
 
     @Bean
-    open fun api(): Docket = Docket(DocumentationType.SWAGGER_2)
+    fun api(): Docket = Docket(DocumentationType.SWAGGER_2)
         .apiInfo(getApiInfo())
         .select()
         .apis(RequestHandlerSelectors.basePackage("com.hubla.challenge.infra.delivery"))
@@ -29,10 +29,13 @@ class SwaggerConfig {
             .description("Import Transactions Files API")
             .version("1.0.0")
             .license("Apache 2.0")
-            .contact(Contact(
-                "Renato Cerqueira Torres",
-                "https://www.linkedin.com/in/renatoctorres/",
-                "renatoctorres@gmail.com"))
+            .contact(
+                Contact(
+                    "Renato Cerqueira Torres",
+                    "https://www.linkedin.com/in/renatoctorres/",
+                    "renatoctorres@gmail.com"
+                )
+            )
             .licenseUrl("http://www.apache.org/licenses/LICENSE-2.0")
             .build()
     }

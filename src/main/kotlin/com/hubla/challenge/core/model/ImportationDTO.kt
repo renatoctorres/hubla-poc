@@ -5,5 +5,5 @@ import java.util.*
 data class ImportationDTO(
     val id: Long,
     val createdAt: Date = Date(),
-    val transactions : List<TransactionDTO>
+    val transactions: List<TransactionDTO>
 )
